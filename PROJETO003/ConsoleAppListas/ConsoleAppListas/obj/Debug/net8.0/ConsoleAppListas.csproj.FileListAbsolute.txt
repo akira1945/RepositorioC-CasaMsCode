@@ -1,0 +1,14 @@
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO003\ConsoleAppListas\ConsoleAppListas\bin\Debug\net8.0\ConsoleAppListas.exe
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO003\ConsoleAppListas\ConsoleAppListas\bin\Debug\net8.0\ConsoleAppListas.deps.json
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO003\ConsoleAppListas\ConsoleAppListas\bin\Debug\net8.0\ConsoleAppListas.runtimeconfig.json
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO003\ConsoleAppListas\ConsoleAppListas\bin\Debug\net8.0\ConsoleAppListas.dll
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO003\ConsoleAppListas\ConsoleAppListas\bin\Debug\net8.0\ConsoleAppListas.pdb
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO003\ConsoleAppListas\ConsoleAppListas\obj\Debug\net8.0\ConsoleAppListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO003\ConsoleAppListas\ConsoleAppListas\obj\Debug\net8.0\ConsoleAppListas.AssemblyInfoInputs.cache
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO003\ConsoleAppListas\ConsoleAppListas\obj\Debug\net8.0\ConsoleAppListas.AssemblyInfo.cs
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO003\ConsoleAppListas\ConsoleAppListas\obj\Debug\net8.0\ConsoleAppListas.csproj.CoreCompileInputs.cache
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO003\ConsoleAppListas\ConsoleAppListas\obj\Debug\net8.0\ConsoleAppListas.dll
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO003\ConsoleAppListas\ConsoleAppListas\obj\Debug\net8.0\refint\ConsoleAppListas.dll
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO003\ConsoleAppListas\ConsoleAppListas\obj\Debug\net8.0\ConsoleAppListas.pdb
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO003\ConsoleAppListas\ConsoleAppListas\obj\Debug\net8.0\ConsoleAppListas.genruntimeconfig.cache
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO003\ConsoleAppListas\ConsoleAppListas\obj\Debug\net8.0\ref\ConsoleAppListas.dll

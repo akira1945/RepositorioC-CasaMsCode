@@ -1,0 +1,14 @@
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO001\Carro\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO001\Carro\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO001\Carro\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO001\Carro\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO001\Carro\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO001\Carro\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO001\Carro\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO001\Carro\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO001\Carro\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO001\Carro\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO001\Carro\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO001\Carro\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO001\Carro\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO001\Carro\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
