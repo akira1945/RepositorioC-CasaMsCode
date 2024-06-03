@@ -1,0 +1,15 @@
+G:\Ropositorio Geral\Curso C# e NET utilizando Mvs\RepositorioC-CasaMsCode\Exercicios Alura\Exercico1DomOrientacaoObjeto\Exercico1DomOrientacaoObjeto\bin\Debug\net8.0\Alura.Filmes.exe
+G:\Ropositorio Geral\Curso C# e NET utilizando Mvs\RepositorioC-CasaMsCode\Exercicios Alura\Exercico1DomOrientacaoObjeto\Exercico1DomOrientacaoObjeto\bin\Debug\net8.0\Alura.Filmes.deps.json
+G:\Ropositorio Geral\Curso C# e NET utilizando Mvs\RepositorioC-CasaMsCode\Exercicios Alura\Exercico1DomOrientacaoObjeto\Exercico1DomOrientacaoObjeto\bin\Debug\net8.0\Alura.Filmes.runtimeconfig.json
+G:\Ropositorio Geral\Curso C# e NET utilizando Mvs\RepositorioC-CasaMsCode\Exercicios Alura\Exercico1DomOrientacaoObjeto\Exercico1DomOrientacaoObjeto\bin\Debug\net8.0\Alura.Filmes.dll
+G:\Ropositorio Geral\Curso C# e NET utilizando Mvs\RepositorioC-CasaMsCode\Exercicios Alura\Exercico1DomOrientacaoObjeto\Exercico1DomOrientacaoObjeto\bin\Debug\net8.0\Alura.Filmes.pdb
+G:\Ropositorio Geral\Curso C# e NET utilizando Mvs\RepositorioC-CasaMsCode\Exercicios Alura\Exercico1DomOrientacaoObjeto\Exercico1DomOrientacaoObjeto\obj\Debug\net8.0\Alura.Filmes.GeneratedMSBuildEditorConfig.editorconfig
+G:\Ropositorio Geral\Curso C# e NET utilizando Mvs\RepositorioC-CasaMsCode\Exercicios Alura\Exercico1DomOrientacaoObjeto\Exercico1DomOrientacaoObjeto\obj\Debug\net8.0\Alura.Filmes.AssemblyInfoInputs.cache
+G:\Ropositorio Geral\Curso C# e NET utilizando Mvs\RepositorioC-CasaMsCode\Exercicios Alura\Exercico1DomOrientacaoObjeto\Exercico1DomOrientacaoObjeto\obj\Debug\net8.0\Alura.Filmes.AssemblyInfo.cs
+G:\Ropositorio Geral\Curso C# e NET utilizando Mvs\RepositorioC-CasaMsCode\Exercicios Alura\Exercico1DomOrientacaoObjeto\Exercico1DomOrientacaoObjeto\obj\Debug\net8.0\Alura.Filmes.csproj.CoreCompileInputs.cache
+G:\Ropositorio Geral\Curso C# e NET utilizando Mvs\RepositorioC-CasaMsCode\Exercicios Alura\Exercico1DomOrientacaoObjeto\Exercico1DomOrientacaoObjeto\obj\Debug\net8.0\Alura.Filmes.sourcelink.json
+G:\Ropositorio Geral\Curso C# e NET utilizando Mvs\RepositorioC-CasaMsCode\Exercicios Alura\Exercico1DomOrientacaoObjeto\Exercico1DomOrientacaoObjeto\obj\Debug\net8.0\Alura.Filmes.dll
+G:\Ropositorio Geral\Curso C# e NET utilizando Mvs\RepositorioC-CasaMsCode\Exercicios Alura\Exercico1DomOrientacaoObjeto\Exercico1DomOrientacaoObjeto\obj\Debug\net8.0\refint\Alura.Filmes.dll
+G:\Ropositorio Geral\Curso C# e NET utilizando Mvs\RepositorioC-CasaMsCode\Exercicios Alura\Exercico1DomOrientacaoObjeto\Exercico1DomOrientacaoObjeto\obj\Debug\net8.0\Alura.Filmes.pdb
+G:\Ropositorio Geral\Curso C# e NET utilizando Mvs\RepositorioC-CasaMsCode\Exercicios Alura\Exercico1DomOrientacaoObjeto\Exercico1DomOrientacaoObjeto\obj\Debug\net8.0\Alura.Filmes.genruntimeconfig.cache
+G:\Ropositorio Geral\Curso C# e NET utilizando Mvs\RepositorioC-CasaMsCode\Exercicios Alura\Exercico1DomOrientacaoObjeto\Exercico1DomOrientacaoObjeto\obj\Debug\net8.0\ref\Alura.Filmes.dll

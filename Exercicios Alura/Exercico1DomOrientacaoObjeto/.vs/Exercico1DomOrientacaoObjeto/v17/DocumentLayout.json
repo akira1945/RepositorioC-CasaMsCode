@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Ropositorio Geral\\Curso C# e NET utilizando Mvs\\RepositorioC-CasaMsCode\\Exercicios Alura\\Exercico1DomOrientacaoObjeto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24AF9296-F131-4A95-8F23-A27FDC53A6F5}|Exercico1DomOrientacaoObjeto\\Exercico1DomOrientacaoObjeto.csproj|g:\\ropositorio geral\\curso c# e net utilizando mvs\\repositorioc-casamscode\\exercicios alura\\exercico1domorientacaoobjeto\\exercico1domorientacaoobjeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AF9296-F131-4A95-8F23-A27FDC53A6F5}|Exercico1DomOrientacaoObjeto\\Exercico1DomOrientacaoObjeto.csproj|solutionrelative:exercico1domorientacaoobjeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AF9296-F131-4A95-8F23-A27FDC53A6F5}|Exercico1DomOrientacaoObjeto\\Alura.Filmes.csproj|g:\\ropositorio geral\\curso c# e net utilizando mvs\\repositorioc-casamscode\\exercicios alura\\exercico1domorientacaoobjeto\\exercico1domorientacaoobjeto\\modelos\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AF9296-F131-4A95-8F23-A27FDC53A6F5}|Exercico1DomOrientacaoObjeto\\Alura.Filmes.csproj|solutionrelative:exercico1domorientacaoobjeto\\modelos\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AF9296-F131-4A95-8F23-A27FDC53A6F5}|Exercico1DomOrientacaoObjeto\\Alura.Filmes.csproj|g:\\ropositorio geral\\curso c# e net utilizando mvs\\repositorioc-casamscode\\exercicios alura\\exercico1domorientacaoobjeto\\exercico1domorientacaoobjeto\\modelos\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24AF9296-F131-4A95-8F23-A27FDC53A6F5}|Exercico1DomOrientacaoObjeto\\Alura.Filmes.csproj|solutionrelative:exercico1domorientacaoobjeto\\modelos\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Artista.cs",
+              "DocumentMoniker": "G:\\Ropositorio Geral\\Curso C# e NET utilizando Mvs\\RepositorioC-CasaMsCode\\Exercicios Alura\\Exercico1DomOrientacaoObjeto\\Exercico1DomOrientacaoObjeto\\Modelos\\Artista.cs",
+              "RelativeDocumentMoniker": "Exercico1DomOrientacaoObjeto\\Modelos\\Artista.cs",
+              "ToolTip": "G:\\Ropositorio Geral\\Curso C# e NET utilizando Mvs\\RepositorioC-CasaMsCode\\Exercicios Alura\\Exercico1DomOrientacaoObjeto\\Exercico1DomOrientacaoObjeto\\Modelos\\Artista.cs",
+              "RelativeToolTip": "Exercico1DomOrientacaoObjeto\\Modelos\\Artista.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T04:27:11.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Filme.cs",
+              "DocumentMoniker": "G:\\Ropositorio Geral\\Curso C# e NET utilizando Mvs\\RepositorioC-CasaMsCode\\Exercicios Alura\\Exercico1DomOrientacaoObjeto\\Exercico1DomOrientacaoObjeto\\Modelos\\Filme.cs",
+              "RelativeDocumentMoniker": "Exercico1DomOrientacaoObjeto\\Modelos\\Filme.cs",
+              "ToolTip": "G:\\Ropositorio Geral\\Curso C# e NET utilizando Mvs\\RepositorioC-CasaMsCode\\Exercicios Alura\\Exercico1DomOrientacaoObjeto\\Exercico1DomOrientacaoObjeto\\Modelos\\Filme.cs",
+              "RelativeToolTip": "Exercico1DomOrientacaoObjeto\\Modelos\\Filme.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T03:22:19.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Ropositorio Geral\\Curso C# e NET utilizando Mvs\\RepositorioC-CasaMsCode\\Exercicios Alura\\Exercico1DomOrientacaoObjeto\\Exercico1DomOrientacaoObjeto\\Program.cs",
+              "RelativeDocumentMoniker": "Exercico1DomOrientacaoObjeto\\Program.cs",
+              "ToolTip": "G:\\Ropositorio Geral\\Curso C# e NET utilizando Mvs\\RepositorioC-CasaMsCode\\Exercicios Alura\\Exercico1DomOrientacaoObjeto\\Exercico1DomOrientacaoObjeto\\Program.cs",
+              "RelativeToolTip": "Exercico1DomOrientacaoObjeto\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAswBwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T03:20:18.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

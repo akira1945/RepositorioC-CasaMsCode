@@ -19,6 +19,7 @@ using ProjetoMusical.Exercicio_2;
 // @ deixar a string igual a forma que foi construida.
 // \n dentro do texto console.writeline da um espaço da linha de cima.
 #region Desafio
+
 Episodio ep1 = new Episodio(2,"Tecnicas de facilitação",45);
 ep1.AdicionarConvidado ("Maria");
 ep1.AdicionarConvidado ("Marcelo");
@@ -35,11 +36,6 @@ Podcast podcast = new("Podcast de Natal","Daniel");
 podcast.AdicionarEpisodio(ep1);
 podcast.AdicionarEpisodio(ep2);
 podcast.ExibirDetalhesPodcast();
-
-
-
-
-
 
 #endregion Desafio
 // #region ScreenSound_Classes
