@@ -3,38 +3,37 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ProjetoMusical.Classes
+namespace ScreenSound.ProjetoMusical.Classes;
+
+public class Album
 {
-    public class Album
+    private List<Musica> musicas = new List<Musica>();
+   
+    public string Nome { get;}
+
+    public int DuracaoTotal => musicas.Sum(m => m.Duracao);
+
+ 
+
+public Album(string nome)
+{
+    this.Nome = nome;
+}
+
+    public void AdicionarMusica (Musica musica)
     {
-        private List<Musica> musicas = new List<Musica>();
-       
-        public string Nome { get; set; }
-
-        public int DuracaoTotal => musicas.Sum(m => m.Duracao);
-
-     
-
-    public Album()
-    {
-        
+        musicas.Add(musica);
     }
 
-        public void AdicionarMusica (Musica musica)
+    public void ExibirMusicasAlbum()
+    {
+        Console.WriteLine($"Lista de músicas do álbum {Nome}:\n");
+        foreach (var itemMusica in musicas)
         {
-            musicas.Add(musica);
+            Console.WriteLine($"Nome da Muisca: {itemMusica.NomeMusica}");
         }
-
-        public void ExibirMusicasAlbum()
-        {
-            Console.WriteLine($"Lista de músicas do álbum {Nome}:\n");
-            foreach (var itemMusica in musicas)
-            {
-                Console.WriteLine($"Nome da Muisca: {itemMusica.NomeMusica}");
-            }
-            Console.WriteLine($"Para ouvir esse album inteiro você precisa de {DuracaoTotal} segundos!!!!");
-        }
-
-
+        Console.WriteLine($"Para ouvir esse album inteiro você precisa de {DuracaoTotal} segundos!!!!");
     }
+
+
 }

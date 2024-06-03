@@ -2,16 +2,18 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using ProjetoMusical.Classes;
 
-namespace ProjetoMusical.Classes
-{
+namespace ScreenSound.ProjetoMusical.Classes;
+
     public class Musica
     {
-        public string NomeMusica { get; set; }
-        public string Artista { get; set;}
-        public int Duracao { get; set;}
+        public string NomeMusica { get; }
+        public Banda Artista { get; }
+        public int Duracao { get; set; }
         private bool Disponivel;
-        public string DescricaoResumida => $"Esta musica pertence a banda {Artista} sua duração esta convertida para segundos: {Duracao}";
+        public string DescricaoResumida => $"Esta musica pertence a banda {Artista.Nome} sua duração esta convertida para segundos: {Duracao}";
+        public Genero Genero { get; set; }
         // { 
         //     get
         //     {
@@ -19,24 +21,19 @@ namespace ProjetoMusical.Classes
         //     } 
         // }
 
-        public bool disponivel { get { return Disponivel; } set { Disponivel = value;}}
- 
-        public Musica(string nome, string artista, int duracao, bool disponivel)
+        public bool disponivel { get { return Disponivel; } set { Disponivel = value; } }
+
+        public Musica(string nome, Banda artista, int duracao, bool disponivel)
         {
             NomeMusica = nome;
             Artista = artista;
             Duracao = duracao;
             this.Disponivel = disponivel;
-            
-                     
+
+
         }
 
-        public Musica()
-        {
-            
-        }
-
-// get e set em forma de metodo.
+        // get e set em forma de metodo.
         // public void EscreverDisponivel(bool value)
         // {
         //     disponivel = value;
@@ -50,12 +47,13 @@ namespace ProjetoMusical.Classes
         public void ExibirFicaTecnica()
         {
             Console.WriteLine($"Nome: {NomeMusica}");
-            System.Console.WriteLine($"Artista {Artista}");
+            System.Console.WriteLine($"Artista {Artista.Nome}");
             System.Console.WriteLine($"Duração: {Duracao}");
-            if(Disponivel)
+            if (Disponivel)
             {
                 Console.WriteLine("Disponível no plano.");
-            } else
+            }
+            else
             {
                 Console.WriteLine("Adquira o plano+");
             }
@@ -63,8 +61,7 @@ namespace ProjetoMusical.Classes
 
         public void ExibirNmArtMusica()
         {
-            Console.WriteLine($"Nome da musica: {NomeMusica} / Artista: {Artista}");
+            Console.WriteLine($"Nome da musica: {NomeMusica} / Artista: {Artista.Nome}");
         }
 
     }
-}

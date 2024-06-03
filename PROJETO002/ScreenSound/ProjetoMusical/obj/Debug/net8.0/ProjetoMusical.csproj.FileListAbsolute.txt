@@ -13,3 +13,18 @@ C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO0
 C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO002\ScreenSound\ProjetoMusical\obj\Debug\net8.0\ProjetoMusical.genruntimeconfig.cache
 C:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO002\ScreenSound\ProjetoMusical\obj\Debug\net8.0\ref\ProjetoMusical.dll
 c:\Users\akira\OneDrive\Área de Trabalho\Curso C# e NET utilizando Mvs\PROJETO002\ScreenSound\ProjetoMusical\obj\Debug\net8.0\ProjetoMusical.sourcelink.json
+g:\Ropositorio Geral\Curso C# e NET utilizando Mvs\RepositorioC-CasaMsCode\PROJETO002\ScreenSound\ProjetoMusical\obj\Debug\net8.0\ProjetoMusical.GeneratedMSBuildEditorConfig.editorconfig
+g:\Ropositorio Geral\Curso C# e NET utilizando Mvs\RepositorioC-CasaMsCode\PROJETO002\ScreenSound\ProjetoMusical\obj\Debug\net8.0\ProjetoMusical.AssemblyInfoInputs.cache
+g:\Ropositorio Geral\Curso C# e NET utilizando Mvs\RepositorioC-CasaMsCode\PROJETO002\ScreenSound\ProjetoMusical\obj\Debug\net8.0\ProjetoMusical.AssemblyInfo.cs
+g:\Ropositorio Geral\Curso C# e NET utilizando Mvs\RepositorioC-CasaMsCode\PROJETO002\ScreenSound\ProjetoMusical\obj\Debug\net8.0\ProjetoMusical.csproj.CoreCompileInputs.cache
+g:\Ropositorio Geral\Curso C# e NET utilizando Mvs\RepositorioC-CasaMsCode\PROJETO002\ScreenSound\ProjetoMusical\obj\Debug\net8.0\ProjetoMusical.sourcelink.json
+g:\Ropositorio Geral\Curso C# e NET utilizando Mvs\RepositorioC-CasaMsCode\PROJETO002\ScreenSound\ProjetoMusical\obj\Debug\net8.0\ProjetoMusical.dll
+g:\Ropositorio Geral\Curso C# e NET utilizando Mvs\RepositorioC-CasaMsCode\PROJETO002\ScreenSound\ProjetoMusical\obj\Debug\net8.0\refint\ProjetoMusical.dll
+g:\Ropositorio Geral\Curso C# e NET utilizando Mvs\RepositorioC-CasaMsCode\PROJETO002\ScreenSound\ProjetoMusical\obj\Debug\net8.0\ProjetoMusical.pdb
+g:\Ropositorio Geral\Curso C# e NET utilizando Mvs\RepositorioC-CasaMsCode\PROJETO002\ScreenSound\ProjetoMusical\bin\Debug\net8.0\ProjetoMusical.exe
+G:\Ropositorio Geral\Curso C# e NET utilizando Mvs\RepositorioC-CasaMsCode\PROJETO002\ScreenSound\ProjetoMusical\bin\Debug\net8.0\ProjetoMusical.deps.json
+G:\Ropositorio Geral\Curso C# e NET utilizando Mvs\RepositorioC-CasaMsCode\PROJETO002\ScreenSound\ProjetoMusical\bin\Debug\net8.0\ProjetoMusical.runtimeconfig.json
+g:\Ropositorio Geral\Curso C# e NET utilizando Mvs\RepositorioC-CasaMsCode\PROJETO002\ScreenSound\ProjetoMusical\bin\Debug\net8.0\ProjetoMusical.dll
+g:\Ropositorio Geral\Curso C# e NET utilizando Mvs\RepositorioC-CasaMsCode\PROJETO002\ScreenSound\ProjetoMusical\bin\Debug\net8.0\ProjetoMusical.pdb
+G:\Ropositorio Geral\Curso C# e NET utilizando Mvs\RepositorioC-CasaMsCode\PROJETO002\ScreenSound\ProjetoMusical\obj\Debug\net8.0\ProjetoMusical.genruntimeconfig.cache
+G:\Ropositorio Geral\Curso C# e NET utilizando Mvs\RepositorioC-CasaMsCode\PROJETO002\ScreenSound\ProjetoMusical\obj\Debug\net8.0\ref\ProjetoMusical.dll

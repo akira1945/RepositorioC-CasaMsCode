@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akira\\OneDrive\\Área de Trabalho\\Curso C# e NET utilizando Mvs\\PROJETO002\\ScreenSound\\ProjetoMusical\\ProjetoMusical.csproj",
+      "projectUniqueName": "g:\\Ropositorio Geral\\Curso C# e NET utilizando Mvs\\RepositorioC-CasaMsCode\\PROJETO002\\ScreenSound\\ProjetoMusical\\ProjetoMusical.csproj",
       "projectName": "ProjetoMusical",
-      "projectPath": "C:\\Users\\akira\\OneDrive\\Área de Trabalho\\Curso C# e NET utilizando Mvs\\PROJETO002\\ScreenSound\\ProjetoMusical\\ProjetoMusical.csproj",
+      "projectPath": "g:\\Ropositorio Geral\\Curso C# e NET utilizando Mvs\\RepositorioC-CasaMsCode\\PROJETO002\\ScreenSound\\ProjetoMusical\\ProjetoMusical.csproj",
       "packagesPath": "C:\\Users\\akira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akira\\OneDrive\\Área de Trabalho\\Curso C# e NET utilizando Mvs\\PROJETO002\\ScreenSound\\ProjetoMusical\\obj\\",
+      "outputPath": "g:\\Ropositorio Geral\\Curso C# e NET utilizando Mvs\\RepositorioC-CasaMsCode\\PROJETO002\\ScreenSound\\ProjetoMusical\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

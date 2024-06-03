@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\akira\\OneDrive\\Área de Trabalho\\Curso C# e NET utilizando Mvs\\PROJETO002\\ScreenSound\\ProjetoMusical\\ProjetoMusical.csproj": {}
+    "G:\\Ropositorio Geral\\Curso C# e NET utilizando Mvs\\RepositorioC-CasaMsCode\\PROJETO002\\ScreenSound\\ProjetoMusical\\ProjetoMusical.csproj": {}
   },
   "projects": {
-    "c:\\Users\\akira\\OneDrive\\Área de Trabalho\\Curso C# e NET utilizando Mvs\\PROJETO002\\ScreenSound\\ProjetoMusical\\ProjetoMusical.csproj": {
+    "G:\\Ropositorio Geral\\Curso C# e NET utilizando Mvs\\RepositorioC-CasaMsCode\\PROJETO002\\ScreenSound\\ProjetoMusical\\ProjetoMusical.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\akira\\OneDrive\\Área de Trabalho\\Curso C# e NET utilizando Mvs\\PROJETO002\\ScreenSound\\ProjetoMusical\\ProjetoMusical.csproj",
+        "projectUniqueName": "G:\\Ropositorio Geral\\Curso C# e NET utilizando Mvs\\RepositorioC-CasaMsCode\\PROJETO002\\ScreenSound\\ProjetoMusical\\ProjetoMusical.csproj",
         "projectName": "ProjetoMusical",
-        "projectPath": "c:\\Users\\akira\\OneDrive\\Área de Trabalho\\Curso C# e NET utilizando Mvs\\PROJETO002\\ScreenSound\\ProjetoMusical\\ProjetoMusical.csproj",
+        "projectPath": "G:\\Ropositorio Geral\\Curso C# e NET utilizando Mvs\\RepositorioC-CasaMsCode\\PROJETO002\\ScreenSound\\ProjetoMusical\\ProjetoMusical.csproj",
         "packagesPath": "C:\\Users\\akira\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\akira\\OneDrive\\Área de Trabalho\\Curso C# e NET utilizando Mvs\\PROJETO002\\ScreenSound\\ProjetoMusical\\obj\\",
+        "outputPath": "G:\\Ropositorio Geral\\Curso C# e NET utilizando Mvs\\RepositorioC-CasaMsCode\\PROJETO002\\ScreenSound\\ProjetoMusical\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
